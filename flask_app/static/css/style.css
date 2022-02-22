@@ -1,0 +1,22 @@
+
+.btn-home {
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    padding: 4px;
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+.btn-success {
+    text-decoration: none;
+    background-color: green;
+    color: white;
+    padding: 4px;
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+.container-show {
+    border: 3px solid black;
+}
